@@ -14,7 +14,7 @@ namespace STPG.Tiles
 			Main.tileSpelunker[Type] = true;
 			Main.tileShine2[Type] = true;
 			Main.tileShine[Type] = 1200;
-			//dustType = int;
+			dustType = 66;
 			soundType = 21;
 			soundStyle = 2;
 			drop = mod.ItemType("Prismite Gem");
