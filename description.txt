@@ -1,1 +1,18 @@
-Stevie's Thorium Prismite Gems is a pretty cool mod, it does...this. Modify this file with a description of your mod.
+Stevie's Thorium Prismate Gems (STPG)
+
+Makes Thorium's Prismite an actual gem.
+
+===========================================
+[c/1C1C1C:Discord]
+https://github.com/Steviegt6/
+===========================================
+[c/1C1C1C:Website]
+https://steviegt6.github.io/
+===========================================
+[c/1C1C1C:Credits]
+Steviegt6: ech
+DivermanSam & the rest of the Thorium Dev Team for creating Thorium
+===========================================
+
+[c/151515:v0.1.0.0]
+- Initial mod release.
