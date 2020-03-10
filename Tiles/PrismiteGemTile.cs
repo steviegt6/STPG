@@ -14,10 +14,10 @@ namespace STPG.Tiles
 			Main.tileSpelunker[Type] = true;
 			Main.tileShine2[Type] = true;
 			Main.tileShine[Type] = 1200;
-			dustType = 66;
+			dustType = 236;
 			soundType = 21;
 			soundStyle = 2;
-			drop = mod.ItemType("Prismite Gem");
+			drop = mod.ItemType("PrismiteGem");
 			Main.tileSpelunker[Type] = true;
 		}
 	}
